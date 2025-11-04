@@ -4,8 +4,10 @@ The board includes **one GPS output**, **one I²C port**, and an integrated **1.
 
 ## PCB
 ### Front & Back Views
-![PCB Front](images/img1.jpg)
-![PCB Back](images/img2.jpg)
+<p align="center">
+  <img src="images/img1.png" alt="PCB Front" height="350">
+  <img src="images/img2.png" alt="PCB Back" height="350">
+</p>
 
 ---
 ### Schematic
