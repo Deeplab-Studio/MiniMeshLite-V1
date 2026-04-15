@@ -1,4 +1,7 @@
 # MiniMesh Lite (ESP32)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Deeplab--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Deeplab-Studio)
+
 A compact and powerful **ESP32 + RA-02 (LoRa)** board designed to support projects such as **Meshtastic**, **LoRaAPRS**, and other LoRa-based communication systems.  
 The board includes **one GPS output**, **one I²C port**, and an integrated **1.3” OLED I²C display** for real-time status and telemetry information.
 
